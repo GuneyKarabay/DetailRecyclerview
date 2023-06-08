@@ -6,6 +6,8 @@ public class Filmler {
     private String film_resim_ad;
     private double film_fiyat;
 
+    //*** Commit 2 için yorum satırı ekleme.
+
     //Boş dolu constructor.
     public Filmler() {
     }
